@@ -1,0 +1,25 @@
+{
+  "name": "multipart-mixed",
+  "version": "1.0.0",
+  "description": "Batch requests helper - Multipart/Mixed requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanfelipesilva/MultipartMixed.git"
+  },
+  "keywords": [
+    "Batch",
+    "Multipart",
+    "Mixed"
+  ],
+  "author": "Allan Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allanfelipesilva/MultipartMixed/issues"
+  },
+  "homepage": "https://github.com/allanfelipesilva/MultipartMixed#readme"
+}
